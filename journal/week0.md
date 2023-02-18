@@ -13,3 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/95615776/219869245-d659eba9-c1d8-45c0-bebc-325e05895f76.png)
 
+
+- For hooking up Health Dashboard to SNS and send notification when there is a service health issue, I found this helpful doc by aws
+https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html
+followed the steps and successfully created the rule.
+
+![image](https://user-images.githubusercontent.com/95615776/219870575-c2af51a8-d312-4936-9de6-77c7a6db04fd.png)
+
